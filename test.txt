@@ -1,7 +1,7 @@
 git commit test
 
 
-line 1
+line 1 test
 
 line 2 test line 2 commit test
 
