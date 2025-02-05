@@ -3,7 +3,7 @@ git commit test
 
 line 1
 
-line 2
+line 2 test line 2 commit test
 
 line 3
 
